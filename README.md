@@ -1,4 +1,6 @@
 # ⚙ FileHashGenerator
+### 🔨 Java 17 was used to build this application.
+#
 
 FileHashGenerator is a program that will generate file hashes out of a folder. These hashes will be put into an output file.
 It uses thread technology to get the maximum speed out of any system to generate hashes as quickly as possible.
